@@ -1,3 +1,5 @@
+# Lab3
+## Q. 
 1. Complete vimtutor. Note: it looks best in a 80x24 (80 columns by 24 lines) terminal window.
 2. Download our basic vimrc and save it to ```~/.vimrc```. Read through the well-commented file (using Vim!), and observe how Vim looks and behaves slightly differently with the new config.
 3. Install and configure a plugin: ```ctrlp.vim```.  
@@ -23,3 +25,6 @@ def main():
 6. Configure your other tools to use Vim bindings (see instructions above).
 7. Further customize your ```~/.vimrc``` and install more plugins.
 8. (Advanced) Convert XML to JSON [example file](https://missing.csail.mit.edu/2020/files/example-data.xml) using Vim macros. Try to do this on your own, but you can look at the macros section above if you get stuck.
+## A.
+4.in demo.py  
+8.in people
